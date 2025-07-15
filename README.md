@@ -1,3 +1,1 @@
-# busniess_card_proj_2
-
-A new Flutter project.
+# business_card_flutter
